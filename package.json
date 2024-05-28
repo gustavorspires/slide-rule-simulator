@@ -1,13 +1,13 @@
 {
-  "name": "projeto-evhist",
-  "version": "1.0.0",
-  "description": "",
+  "name": "slide-rule-simulator",
+  "version": "1.0.1",
+  "description": "A simple slide rule simulator created for an university project",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "gustavorspires",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
